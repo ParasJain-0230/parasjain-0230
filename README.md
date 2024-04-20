@@ -14,6 +14,7 @@ download markdown
 download backup
 
 preview
+![logo](https://github.com/ParasJain-0230/parasjain-0230/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Paras Jain</h1>
 <h3 align="center">"Budding Software Developer with a Flair for Java, C++ & Web Technologies | Involved in Practical Tech Projects"</h3>
 <img align="right" alt ="coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932"
